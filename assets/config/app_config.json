@@ -1,0 +1,26 @@
+{
+  "authDomain": "",
+  "appDomain": "https://mobile.myarpico.com",
+  "appDomainT": "http://192.168.1.141:2000",
+  "initialRoute": "/intro",
+  "hashingSecret": "iam#sys!dev:gayan@arpico.groupit",
+  "jwtSecret": "iam#sys!dev:gayan@arpico.groupit",
+  "hashingSecret2": "iam@arpico#groupit&dev=gayancw^?",
+  "secureStatus" : "false",
+  "otpSignature": "BprYlPHHjsJ",
+  "devInfo": {
+    "id": "gayanc",
+    "name": "Gayan Weerasinghe",
+    "designation": "Software Engineer",
+    "department": "Group IT",
+    "company": "Richard Pieris & Company PLC"
+  },
+  "appInfo": {
+    "id": "arpicoprivilage",
+    "name": "Arpico Privilege",
+    "slogan": "Shop Smart, Earn More",
+    "version": "1.0.0",
+    "department": "Group IT",
+    "company": "Richard Pieris & Company PLC"
+  }
+}

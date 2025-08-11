@@ -1,0 +1,55 @@
+{
+  "@@locale": "en",
+
+  "alerts_failed_title": "Something Went Wrong",
+  "alerts_failed_description": "An unexpected error occurred. Please try again later.",
+
+  "alerts_not_found_title": "Not Found",
+  "alerts_not_found_description": "The requested data was not found.",
+
+  "alerts_no_content_title": "No Content",
+  "alerts_no_content_description": "There is nothing to display.",
+
+  "alerts_timeout_title": "Timeout",
+  "alerts_timeout_description": "The connection timed out. Please try again.",
+
+  "alerts_connection_error_title": "Connection Error",
+  "alerts_connection_error_description": "Network connection failed. Please check your connection.",
+
+  "alerts_internal_server_error_title": "Internal Server Error",
+  "alerts_internal_server_error_description": "A server error occurred. Please try again later.",
+
+  "alerts_empty_bills_title": "No E-Bills Found",
+  "alerts_empty_bills_description": "You haven’t received any e-bills yet.",
+
+  "alerts_empty_promotions_title": "No Promotions",
+  "alerts_empty_promotions_description": "There are no promotions available at this time.",
+
+  "alerts_empty_notifications_title": "No Notifications",
+  "alerts_empty_notifications_description": "You have no new notifications.",
+
+  "alerts_empty_reviews_title": "No Reviews",
+  "alerts_empty_reviews_description": "There are no reviews for this item.",
+
+  "alerts_empty_transactions_title": "No Transactions",
+  "alerts_empty_transactions_description": "You have no transactions.",
+
+  "alerts_issue_submitted_title": "Issue Submitted",
+  "alerts_issue_submitted_description": "Your issue has been successfully submitted.",
+
+  "alerts_feedback_submitted_title": "Feedback Submitted",
+  "alerts_feedback_submitted_description": "Your feedback has been successfully received.",
+
+  "alerts_profile_updated_title": "Profile Updated",
+  "alerts_profile_updated_description": "Your profile has been updated successfully.",
+
+  "alerts_ebill_registered_title": "You're Now Registered for E-Bills",
+  "alerts_ebill_registered_description": "Your bills will now appear right in the app and may also be sent via SMS. Enjoy clutter-free convenience!",
+
+  "actions_retry": "Retry",
+  "actions_refresh": "Refresh",
+  "actions_ok": "OK",
+  "actions_cancel": "Cancel",
+  "actions_done": "Done",
+  "actions_got_it": "Got It"
+}

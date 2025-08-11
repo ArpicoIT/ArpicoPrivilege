@@ -1,0 +1,20 @@
+{
+  "login": "/login",
+  "loginAccess": "/login_access",
+  "anonymousLogin": "/anonymous_login",
+  "validateToken": "/validate_token",
+  "otpRequest": "/otprequest",
+  "otpVerify": "/otpverify",
+  "systemsAccess": "/systems_access",
+  "resetPassword": "/password/reset_password",
+  "changePassword": "/password/change_password",
+  "sbus": "/sbus",
+  "locations": "/locations",
+  "sbuLocations": "/sbu_locations",
+  "addUser": "/users",
+  "updateUser": "/users",
+  "deleteUser": "/users",
+  "getUser": "/users",
+  "getAllUsers": "/users",
+  "getAllRoles": "/roles"
+}

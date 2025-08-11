@@ -1,0 +1,55 @@
+{
+  "@@locale": "si",
+
+  "alerts_failed_title": "කිසියම් දෝෂයක් සිදු විය",
+  "alerts_failed_description": "අනපේක්ෂිත දෝෂයක් සිදු විය. කරුණාකර පසුව නැවත උත්සාහ කරන්න.",
+
+  "alerts_not_found_title": "දත්ත සොයාගත නොහැක",
+  "alerts_not_found_description": "අදාළ දත්ත හමු නොවීය.",
+
+  "alerts_no_content_title": "අන්තර්ගතය නැත",
+  "alerts_no_content_description": "පෙන්වීමට කිසිවක් නොමැත.",
+
+  "alerts_timeout_title": "වේලාව ඉක්මවා ගියා",
+  "alerts_timeout_description": "සම්බන්ධතාවය වේලාව ඉක්මවා ගියේය. කරුණාකර නැවත උත්සාහ කරන්න.",
+
+  "alerts_connection_error_title": "සම්බන්ධතා දෝෂයක්",
+  "alerts_connection_error_description": "ජාල සම්බන්ධතාවය අසාර්ථක විය. කරුණාකර සම්බන්ධතාවය පරීක්ෂා කරන්න.",
+
+  "alerts_internal_server_error_title": "සේවාදායක දෝෂයක්",
+  "alerts_internal_server_error_description": "සේවාදායකයේ දෝෂයක් ඇතිව ඇත. පසුව නැවත උත්සාහ කරන්න.",
+
+  "alerts_empty_bills_title": "බිල්පත් හමු නොවීය",
+  "alerts_empty_bills_description": "ඔබට කිසිදු බිල්පතක් ලබා නොදී ඇත.",
+
+  "alerts_empty_promotions_title": "ප්‍රවර්ධන නොමැත",
+  "alerts_empty_promotions_description": "මෙතැන ප්‍රවර්ධන කිසිවක් නොමැත.",
+
+  "alerts_empty_notifications_title": "සැලකිලි නොමැත",
+  "alerts_empty_notifications_description": "නව දැනුම්දීම් නොමැත.",
+
+  "alerts_empty_reviews_title": "සමාලෝචන නොමැත",
+  "alerts_empty_reviews_description": "මෙම වස්තුව සඳහා කිසිදු සමාලෝචනයක් නොමැත.",
+
+  "alerts_empty_transactions_title": "ගනුදෙනු නොමැත",
+  "alerts_empty_transactions_description": "ඔබට කිසිදු ගනුදෙනුවක් නොමැත.",
+
+  "alerts_issue_submitted_title": "ගැටලුව ඉදිරිපත් කර ඇත",
+  "alerts_issue_submitted_description": "ඔබගේ ගැටලුව සාර්ථකව ලැබී ඇත.",
+
+  "alerts_feedback_submitted_title": "ප්‍රතිචාර යොමු කරන ලදී",
+  "alerts_feedback_submitted_description": "ඔබගේ ප්‍රතිචාර අප වෙත සාර්ථකව ලැබී ඇත.",
+
+  "alerts_profile_updated_title": "සැකසුම් සාර්ථකයි",
+  "alerts_profile_updated_description": "ඔබගේ පැතිකඩ යාවත්කාලීන කර ඇත.",
+
+  "alerts_ebill_registered_title": "ඔබ දැන් ඊ-බිල් සේවාවට ලියාපදිංචි වී ඇත",
+  "alerts_ebill_registered_description": "ඔබගේ බිල්පත් දැන් යෙදුමේ තුළ සහ SMS මඟින් ලබා ගත හැක. කඩදාසි රහිත පහසුව විඳින්න!",
+
+  "actions_retry": "නැවත උත්සාහය",
+  "actions_refresh": "නැවත උත්සාහය",
+  "actions_ok": "හරි",
+  "actions_cancel": "අවලංගු කරන්න",
+  "actions_done": "සම්පූර්ණයි",
+  "actions_got_it": "හොඳයි"
+}

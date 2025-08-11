@@ -1,0 +1,50 @@
+[
+  {
+    "key": "connection_error",
+    "image": "assets/errors/connection-error.png",
+    "title": "No Internet Connection",
+    "message": "Please check your internet connection and try again.",
+    "confirmText": "Retry",
+    "confirmIcon": null
+  },
+  {
+    "key": "timeout",
+    "image": "assets/errors/timeout.png",
+    "title": "Request Timed Out",
+    "message": "The request took too long to complete. Please try again later.",
+    "confirmText": "Retry",
+    "confirmIcon": null
+  },
+  {
+    "key": "not_found",
+    "image": "assets/errors/not-found.png",
+    "title": "Page Not Found",
+    "message": "Oops! The page you're looking for doesn't exist or may have been moved. Please check the URL or try again.",
+    "confirmText": "Retry",
+    "confirmIcon": null
+  },
+  {
+    "key": "no_content",
+    "image": "assets/errors/no-content.png",
+    "title": "No Content Available",
+    "message": "There’s nothing to display at the moment. Please check back later.",
+    "confirmText": "Retry",
+    "confirmIcon": null
+  },
+  {
+    "key": "failed",
+    "image": "assets/errors/failed.png",
+    "title": "Operation Failed",
+    "message": "Something went wrong while processing your request. Please try again.",
+    "confirmText": "Retry",
+    "confirmIcon": null
+  },
+  {
+    "key": "internal_server_error",
+    "image": "assets/errors/internal-server-error.png",
+    "title": "Server Error",
+    "message": "The server encountered an error. Please try again later.",
+    "confirmText": "Retry",
+    "confirmIcon": null
+  }
+]

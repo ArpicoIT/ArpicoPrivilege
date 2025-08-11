@@ -1,0 +1,134 @@
+{
+  "failed-new": {
+    "key": "failed-new",
+    "image": "assets/alerts/icons/failed.png",
+    "title": "Something Went Wrong",
+    "message": "An unexpected error occurred. Please try again later.",
+    "confirm": {
+      "text": "Refresh",
+      "icon": "refresh"
+    },
+    "cancel": null
+  },
+  "failed": {
+    "key": "failed",
+    "image": "assets/alerts/icons/failed.png",
+    "title": "Something Went Wrong",
+    "message": "An unexpected error occurred. Please try again later.",
+    "confirmText": "Retry",
+    "confirmIcon": null
+  },
+  "notFound": {
+    "key": "notFound",
+    "image": "assets/alerts/icons/not-found.png",
+    "title": "Page Not Found",
+    "message": "Oops! The page you're looking for doesn't exist or may have been moved. Please check the URL or try again.",
+    "confirmText": "Retry",
+    "confirmIcon": null
+  },
+  "noContent": {
+    "key": "noContent",
+    "image": "assets/alerts/icons/no-content.png",
+    "title": "No Content Available",
+    "message": "There's nothing to display here at the moment. Please check back later.",
+    "confirmText": "Refresh",
+    "confirmIcon": null
+  },
+  "timeout": {
+    "key": "timeout",
+    "image": "assets/alerts/icons/timeout.png",
+    "title": "Request Timed Out",
+    "message": "The request took too long to complete. Please check your connection and try again.",
+    "confirmText": "Retry",
+    "confirmIcon": null
+  },
+  "connectionError": {
+    "key": "connectionError",
+    "image": "assets/alerts/icons/connection-error.png",
+    "title": "Connection Issue",
+    "message": "Unable to connect to the internet. Please check your connection and try again.",
+    "confirmText": "Retry",
+    "confirmIcon": null
+  },
+  "internalServerError": {
+    "key": "internalServerError",
+    "image": "assets/alerts/icons/internal-server-error.png",
+    "title": "Server Error",
+    "message": "We're experiencing technical difficulties. Please try again later.",
+    "confirmText": "Retry",
+    "confirmIcon": null
+  },
+
+  "emptyBills": {
+    "key": "emptyBills",
+    "image": "assets/alerts/empty-bills.webp",
+    "title": "No Bills Available",
+    "message": "You have no bills to display at the moment. Check back later or refresh.",
+    "confirmText": "Refresh",
+    "confirmIcon": null
+  },
+  "emptyPromotions": {
+    "key": "emptyPromotions",
+    "image": "assets/alerts/empty-promotions.webp",
+    "title": "No Promotions Available",
+    "message": "You have no promotions to display at the moment. Check back later or refresh.",
+    "confirmText": "Refresh",
+    "confirmIcon": null
+  },
+  "emptyNotifications": {
+    "key": "emptyNotifications",
+    "image": "assets/alerts/empty-notifications.png",
+    "title": "No Notifications Yet",
+    "message": "You're all caught up! We'll notify you when there's something new.",
+    "confirmText": "Refresh",
+    "confirmIcon": null
+  },
+  "emptyReviews": {
+    "key": "emptyReviews",
+    "image": "assets/alerts/empty-review.png",
+    "title": "No Reviews Available",
+    "message": "There are no reviews for this item yet. Be the first to share your experience!",
+    "confirmText": "Refresh",
+    "confirmIcon": null
+  },
+  "emptyTransactions": {
+    "key": "emptyTransactions",
+    "image": "assets/alerts/empty-transactions.png",
+    "title": "No Transactions Found",
+    "message": "You have no transactions to display at the moment. Try making a transaction or refresh to check",
+    "confirmText": "Refresh",
+    "confirmIcon": null
+  },
+  "issueSubmitted": {
+    "key": "issueSubmitted",
+    "image": "assets/alerts/success.gif",
+    "title": "Request Submitted!",
+    "message": "Our support team will get back to you soon. You’ll receive a response shortly.",
+    "confirmText": "Go Home",
+    "confirmIcon": "home"
+  },
+  "feedbackSubmitted": {
+    "key": "feedbackSubmitted",
+    "image": "assets/alerts/success.gif",
+    "title": "Feedback Submitted Successfully",
+    "message": "Thank you for your feedback. We appreciate your time and effort.",
+    "confirmText": "Go Home",
+    "confirmIcon": "home"
+  },
+  "profileUpdated": {
+    "key": "profileUpdated",
+    "image": "assets/alerts/success.gif",
+    "title": "Profile Updated Successfully!",
+    "message": "Your profile details have been updated. You can continue using the app or go back.",
+    "confirmText": "Go Home",
+    "confirmIcon": "home"
+  },
+  "eBillRegistered": {
+    "key": "eBillRegistered",
+    "image": "assets/alerts/success.gif",
+    "title": "E-Bill Registration Successful!",
+    "message": "You have successfully registered for e-billing. You can now enjoy a hassle-free billing experience. You can return to the home screen now.",
+    "confirmText": "Go Home",
+    "confirmIcon": "home"
+  }
+}

@@ -1,0 +1,7 @@
+# Tell Flutter where your l10n files are
+
+arb-dir: lib/l10n
+template-arb-file: alerts_en.arb
+output-localization-file: app_localizations.dart
+output-class: AppLocalizations
+synthetic-package: false

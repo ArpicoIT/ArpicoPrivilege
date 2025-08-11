@@ -1,0 +1,5 @@
+sync gradle:
+    1. navigate to android [$ cd android]
+    2. run command [$ ./gradlew --refresh-dependencies]
+
+get [DefaultFirebaseOptions.currentPlatform] command: $ flutterfire configure

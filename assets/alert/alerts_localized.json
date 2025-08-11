@@ -1,0 +1,200 @@
+{
+  "alerts": [
+    {
+      "id": "failed",
+      "icon": "assets/alert/primaryIcons/failed.png",
+      "titleKey": "alerts_failed_title",
+      "descriptionKey": "alerts_failed_description",
+      "actions": {
+        "primary": {
+          "labelKey": "actions_retry",
+          "icon": "refresh",
+          "action": "retry"
+        },
+        "secondary": null
+      }
+    },
+    {
+      "id": "notFound",
+      "icon": "assets/alert/primaryIcons/not_found.png",
+      "titleKey": "alerts_not_found_title",
+      "descriptionKey": "alerts_not_found_description",
+      "actions": {
+        "primary": {
+          "labelKey": "actions_refresh",
+          "icon": "refresh",
+          "action": "refresh"
+        },
+        "secondary": {
+          "labelKey": "actions_go_back",
+          "icon": "arrow_back",
+          "action": "back"
+        }
+      }
+    },
+    {
+      "id": "noContent",
+      "icon": "assets/alert/primaryIcons/no_content.png",
+      "titleKey": "alerts_no_content_title",
+      "descriptionKey": "alerts_no_content_description",
+      "actions": {
+        "primary": {
+          "labelKey": "actions_refresh",
+          "icon": "refresh",
+          "action": "refresh"
+        },
+        "secondary": null
+      }
+    },
+    {
+      "id": "requestTimeout",
+      "icon": "assets/alert/primaryIcons/timeout.png",
+      "titleKey": "alerts_request_timeout_title",
+      "descriptionKey": "alerts_request_timeout_description",
+      "actions": {
+        "primary": {
+          "labelKey": "actions_retry",
+          "icon": "refresh",
+          "action": "retry"
+        },
+        "secondary": null
+      }
+    },
+    {
+      "id": "connectionError",
+      "icon": "assets/alert/primaryIcons/connection-error.png",
+      "titleKey": "alerts_connection_error_title",
+      "descriptionKey": "alerts_connection_error_description",
+      "actions": {
+        "primary": {
+          "labelKey": "actions_retry",
+          "icon": "wifi",
+          "action": "retry"
+        },
+        "secondary": null
+      }
+    },
+    {
+      "id": "internalServerError",
+      "icon": "assets/alert/primaryIcons/server_error.png",
+      "titleKey": "alerts_internal_server_error_title",
+      "descriptionKey": "alerts_internal_server_error_description",
+      "actions": {
+        "primary": {
+          "labelKey": "actions_retry",
+          "icon": "refresh",
+          "action": "retry"
+        },
+        "secondary": null
+      }
+    },
+
+    {
+      "id": "emptyBills",
+      "icon": "assets/alerts/primaryIcons/empty_bills.png",
+      "titleKey": "alerts_empty_bills_title",
+      "descriptionKey": "alerts_empty_bills_description",
+      "actions": {
+        "primary": null,
+        "secondary": null
+      }
+    },
+    {
+      "id": "emptyPromotions",
+      "icon": "assets/alerts/primaryIcons/empty_promotions.png",
+      "titleKey": "alerts_empty_promotions_title",
+      "descriptionKey": "alerts_empty_promotions_description",
+      "actions": {
+        "primary": null,
+        "secondary": null
+      }
+    },
+    {
+      "id": "emptyNotifications",
+      "icon": "assets/alerts/primaryIcons/empty_notifications.png",
+      "titleKey": "alerts_empty_notifications_title",
+      "descriptionKey": "alerts_empty_notifications_description",
+      "actions": {
+        "primary": null,
+        "secondary": null
+      }
+    },
+    {
+      "id": "emptyReviews",
+      "icon": "assets/alerts/primaryIcons/empty_reviews.png",
+      "titleKey": "alerts_empty_reviews_title",
+      "descriptionKey": "alerts_empty_reviews_description",
+      "actions": {
+        "primary": null,
+        "secondary": null
+      }
+    },
+    {
+      "id": "emptyTransactions",
+      "icon": "assets/alerts/icons/empty_transactions.png",
+      "titleKey": "alerts_empty_transactions_title",
+      "descriptionKey": "alerts_empty_transactions_description",
+      "actions": {
+        "primary": null,
+        "secondary": null
+      }
+    },
+
+    {
+      "id": "issueSubmitted",
+      "icon": "assets/alert/gifs/success.gif",
+      "titleKey": "alerts_issue_submitted_title",
+      "descriptionKey": "alerts_issue_submitted_description",
+      "actions": {
+        "primary": {
+          "labelKey": "actions_ok",
+          "icon": "check_circle",
+          "action": "ok"
+        },
+        "secondary": null
+      }
+    },
+    {
+      "id": "feedbackSubmitted",
+      "icon": "assets/alert/gifs/success.gif",
+      "titleKey": "alerts_feedback_submitted_title",
+      "descriptionKey": "alerts_feedback_submitted_description",
+      "actions": {
+        "primary": {
+          "labelKey": "actions_ok",
+          "icon": "check_circle",
+          "action": "close"
+        },
+        "secondary": null
+      }
+    },
+    {
+      "id": "profileUpdated",
+      "icon": "assets/alert/gifs/success.gif",
+      "titleKey": "alerts_profile_updated_title",
+      "descriptionKey": "alerts_profile_updated_description",
+      "actions": {
+        "primary": {
+          "labelKey": "actions_ok",
+          "icon": "check_circle",
+          "action": "ok"
+        },
+        "secondary": null
+      }
+    },
+    {
+      "id": "eBillRegistered",
+      "icon": "assets/alert/gifs/success.gif",
+      "titleKey": "alerts_ebill_registered_title",
+      "descriptionKey": "alerts_ebill_registered_description",
+      "actions": {
+        "primary": {
+          "labelKey": "actions_got_it",
+          "icon": null,
+          "action": "ok"
+        },
+        "secondary": null
+      }
+    }
+  ]
+}

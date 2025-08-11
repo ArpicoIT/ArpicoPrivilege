@@ -1,0 +1,15 @@
+{
+  "userId":  "0001",
+  "cardId":  "0009561",
+  "title": "Mr",
+  "firstName":  "Gayan",
+  "lastName": "Weerasinghe",
+  "mobile":  "+94710930444",
+  "verifiedMobile": false,
+  "email":  "gayan.cw@arpico.com",
+  "verifiedEmail": false,
+  "nic":  "952400061V",
+  "birthday": "1995-08-27",
+  "gender":  "male",
+  "address": "No 310, HighLevel road, Navinna, Maharagama"
+}
